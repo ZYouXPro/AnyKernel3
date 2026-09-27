@@ -1,5 +1,5 @@
 properties() { '
-kernel.string=ZYouX Kernel for OPLUS SM7325
+kernel.string=ZYOUX Kernel for OPLUS SM7325
 do.devicecheck=0
 do.modules=0
 do.systemless=1
